@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|c:\\users\\alexis\\desktop\\miwebapi\\miwebapi\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|c:\\users\\alexis\\desktop\\miwebapi\\miwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|c:\\users\\alexis\\desktop\\miwebapi\\miwebapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|c:\\users\\alexis\\desktop\\miwebapi\\miwebapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|c:\\users\\alexis\\desktop\\miwebapi\\miwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D86E29-9BAC-421C-81F6-73D5818CCA54}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MiWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\Program.cs",
+              "RelativeToolTip": "MiWebApi\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:33:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "MiWebApi\\Data\\EmpleadoData.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "MiWebApi\\Data\\EmpleadoData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:13:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MiWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\appsettings.json",
+              "RelativeToolTip": "MiWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T14:45:24.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "MiWebApi\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\Models\\Empleado.cs",
+              "RelativeToolTip": "MiWebApi\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:39:25.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "MiWebApi\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\MiWebApi\\MiWebApi\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "MiWebApi\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:37:18.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
